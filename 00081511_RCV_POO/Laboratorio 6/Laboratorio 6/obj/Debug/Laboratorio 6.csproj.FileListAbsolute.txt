@@ -1,0 +1,5 @@
+C:\Users\Pc-pc\Documents\POO\00081511_RCV_POO\Laboratorio 6\Laboratorio 6\obj\Debug\Laboratorio 6.csprojAssemblyReference.cache
+C:\Users\Pc-pc\Documents\POO\00081511_RCV_POO\Laboratorio 6\Laboratorio 6\bin\Debug\Laboratorio_6.exe
+C:\Users\Pc-pc\Documents\POO\00081511_RCV_POO\Laboratorio 6\Laboratorio 6\bin\Debug\Laboratorio_6.pdb
+C:\Users\Pc-pc\Documents\POO\00081511_RCV_POO\Laboratorio 6\Laboratorio 6\obj\Debug\Laboratorio_6.exe
+C:\Users\Pc-pc\Documents\POO\00081511_RCV_POO\Laboratorio 6\Laboratorio 6\obj\Debug\Laboratorio_6.pdb

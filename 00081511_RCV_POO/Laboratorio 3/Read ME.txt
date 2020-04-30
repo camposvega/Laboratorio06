@@ -1,0 +1,3 @@
+El de estacionamiento esta tomado en segundo y se llena con el del sistema.
+	ej: 30 minutos = 30 segundos.
+		1 hora = 60 segundos...
