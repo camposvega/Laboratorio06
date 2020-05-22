@@ -81,11 +81,20 @@
         </Compile>
         <Compile Include="Program.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
+        <EmbeddedResource Include="Detalle.resx">
+          <DependentUpon>Detalle.cs</DependentUpon>
+        </EmbeddedResource>
         <EmbeddedResource Include="Estudiante.resx">
           <DependentUpon>Estudiante.cs</DependentUpon>
         </EmbeddedResource>
         <EmbeddedResource Include="Form1.resx">
           <DependentUpon>Form1.cs</DependentUpon>
+        </EmbeddedResource>
+        <EmbeddedResource Include="Inscripcion.resx">
+          <DependentUpon>Inscripcion.cs</DependentUpon>
+        </EmbeddedResource>
+        <EmbeddedResource Include="Materia.resx">
+          <DependentUpon>Materia.cs</DependentUpon>
         </EmbeddedResource>
         <EmbeddedResource Include="Properties\Resources.resx">
             <Generator>ResXFileCodeGenerator</Generator>

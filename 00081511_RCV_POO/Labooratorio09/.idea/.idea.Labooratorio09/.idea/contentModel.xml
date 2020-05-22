@@ -8,6 +8,7 @@
       <e p="bin" t="ExcludeRecursive" />
       <e p="Detalle.cs" t="Include" />
       <e p="Detalle.Designer.cs" t="Include" />
+      <e p="Detalle.resx" t="Include" />
       <e p="Estudiante.cs" t="Include" />
       <e p="Estudiante.Designer.cs" t="Include" />
       <e p="Estudiante.resx" t="Include" />
@@ -16,10 +17,12 @@
       <e p="Form1.resx" t="Include" />
       <e p="Inscripcion.cs" t="Include" />
       <e p="Inscripcion.Designer.cs" t="Include" />
+      <e p="Inscripcion.resx" t="Include" />
       <e p="Labooratorio09.csproj" t="IncludeRecursive" />
       <e p="Labooratorio09.sln" t="IncludeFlat" />
       <e p="Materia.cs" t="Include" />
       <e p="Materia.Designer.cs" t="Include" />
+      <e p="Materia.resx" t="Include" />
       <e p="obj" t="ExcludeRecursive" />
       <e p="packages" t="ExcludeRecursive" />
       <e p="Program.cs" t="Include" />

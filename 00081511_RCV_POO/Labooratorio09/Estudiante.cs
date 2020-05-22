@@ -1,4 +1,5 @@
-﻿using System.Windows.Forms;
+﻿using System;
+using System.Windows.Forms;
 
 namespace Labooratorio09
 {
@@ -8,5 +9,6 @@ namespace Labooratorio09
         {
             InitializeComponent();
         }
+
     }
 }

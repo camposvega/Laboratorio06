@@ -8,3 +8,6 @@ C:\Users\Pc-pc\Documents\POO\00081511_RCV_POO\Labooratorio09\obj\Debug\Laboorato
 C:\Users\Pc-pc\Documents\POO\00081511_RCV_POO\Labooratorio09\obj\Debug\Labooratorio09.Form1.resources
 C:\Users\Pc-pc\Documents\POO\00081511_RCV_POO\Labooratorio09\obj\Debug\Labooratorio09.Estudiante.resources
 C:\Users\Pc-pc\Documents\POO\00081511_RCV_POO\Labooratorio09\obj\Debug\Labooratorio09.csproj.CopyComplete
+C:\Users\Pc-pc\Documents\POO\00081511_RCV_POO\Labooratorio09\obj\Debug\Labooratorio09.Detalle.resources
+C:\Users\Pc-pc\Documents\POO\00081511_RCV_POO\Labooratorio09\obj\Debug\Labooratorio09.Inscripcion.resources
+C:\Users\Pc-pc\Documents\POO\00081511_RCV_POO\Labooratorio09\obj\Debug\Labooratorio09.Materia.resources
