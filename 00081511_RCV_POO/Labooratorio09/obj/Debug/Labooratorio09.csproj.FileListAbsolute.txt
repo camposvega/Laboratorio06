@@ -1,5 +1,4 @@
 C:\Users\Pc-pc\Documents\POO\00081511_RCV_POO\Labooratorio09\bin\Debug\Labooratorio09.exe.config
-C:\Users\Pc-pc\Documents\POO\00081511_RCV_POO\Labooratorio09\bin\Debug\Labooratorio09.exe
 C:\Users\Pc-pc\Documents\POO\00081511_RCV_POO\Labooratorio09\bin\Debug\Labooratorio09.pdb
 C:\Users\Pc-pc\Documents\POO\00081511_RCV_POO\Labooratorio09\obj\Debug\Labooratorio09.csprojAssemblyReference.cache
 C:\Users\Pc-pc\Documents\POO\00081511_RCV_POO\Labooratorio09\obj\Debug\Labooratorio09.Properties.Resources.resources
@@ -7,3 +6,5 @@ C:\Users\Pc-pc\Documents\POO\00081511_RCV_POO\Labooratorio09\obj\Debug\Laboorato
 C:\Users\Pc-pc\Documents\POO\00081511_RCV_POO\Labooratorio09\obj\Debug\Labooratorio09.exe
 C:\Users\Pc-pc\Documents\POO\00081511_RCV_POO\Labooratorio09\obj\Debug\Labooratorio09.pdb
 C:\Users\Pc-pc\Documents\POO\00081511_RCV_POO\Labooratorio09\obj\Debug\Labooratorio09.Form1.resources
+C:\Users\Pc-pc\Documents\POO\00081511_RCV_POO\Labooratorio09\obj\Debug\Labooratorio09.Estudiante.resources
+C:\Users\Pc-pc\Documents\POO\00081511_RCV_POO\Labooratorio09\obj\Debug\Labooratorio09.csproj.CopyComplete

@@ -30,10 +30,11 @@
         private void InitializeComponent()
         {
             this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
-            this.button1 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
-            this.button3 = new System.Windows.Forms.Button();
             this.button4 = new System.Windows.Forms.Button();
+            this.button3 = new System.Windows.Forms.Button();
+            this.button2 = new System.Windows.Forms.Button();
+            this.button1 = new System.Windows.Forms.Button();
+            this.estudiante1 = new Labooratorio09.Estudiante();
             this.tableLayoutPanel1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -53,6 +54,7 @@
             this.tableLayoutPanel1.Controls.Add(this.button3, 2, 0);
             this.tableLayoutPanel1.Controls.Add(this.button2, 1, 0);
             this.tableLayoutPanel1.Controls.Add(this.button1, 0, 0);
+            this.tableLayoutPanel1.Controls.Add(this.estudiante1, 0, 1);
             this.tableLayoutPanel1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.tableLayoutPanel1.Location = new System.Drawing.Point(0, 0);
             this.tableLayoutPanel1.Name = "tableLayoutPanel1";
@@ -61,41 +63,8 @@
                 new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 16F));
             this.tableLayoutPanel1.RowStyles.Add(
                 new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 84F));
-            this.tableLayoutPanel1.Size = new System.Drawing.Size(496, 476);
+            this.tableLayoutPanel1.Size = new System.Drawing.Size(496, 477);
             this.tableLayoutPanel1.TabIndex = 0;
-            // 
-            // button1
-            // 
-            this.button1.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.button1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button1.Location = new System.Drawing.Point(3, 3);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(118, 70);
-            this.button1.TabIndex = 0;
-            this.button1.Text = "Estudiante";
-            this.button1.UseVisualStyleBackColor = true;
-            // 
-            // button2
-            // 
-            this.button2.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.button2.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button2.Location = new System.Drawing.Point(127, 3);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(118, 70);
-            this.button2.TabIndex = 1;
-            this.button2.Text = "Materia";
-            this.button2.UseVisualStyleBackColor = true;
-            // 
-            // button3
-            // 
-            this.button3.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.button3.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button3.Location = new System.Drawing.Point(251, 3);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(118, 70);
-            this.button3.TabIndex = 2;
-            this.button3.Text = "Inscripcion";
-            this.button3.UseVisualStyleBackColor = true;
             // 
             // button4
             // 
@@ -108,11 +77,54 @@
             this.button4.Text = "Detalle";
             this.button4.UseVisualStyleBackColor = true;
             // 
+            // button3
+            // 
+            this.button3.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.button3.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.button3.Location = new System.Drawing.Point(251, 3);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(118, 70);
+            this.button3.TabIndex = 2;
+            this.button3.Text = "Inscripcion";
+            this.button3.UseVisualStyleBackColor = true;
+            // 
+            // button2
+            // 
+            this.button2.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.button2.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.button2.Location = new System.Drawing.Point(127, 3);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(118, 70);
+            this.button2.TabIndex = 1;
+            this.button2.Text = "Materia";
+            this.button2.UseVisualStyleBackColor = true;
+            // 
+            // button1
+            // 
+            this.button1.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.button1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.button1.Location = new System.Drawing.Point(3, 3);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(118, 70);
+            this.button1.TabIndex = 0;
+            this.button1.Text = "Estudiante";
+            this.button1.UseVisualStyleBackColor = true;
+            // 
+            // estudiante1
+            // 
+            this.estudiante1.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.tableLayoutPanel1.SetColumnSpan(this.estudiante1, 4);
+            this.estudiante1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.estudiante1.Location = new System.Drawing.Point(3, 79);
+            this.estudiante1.Name = "estudiante1";
+            this.estudiante1.Size = new System.Drawing.Size(490, 395);
+            this.estudiante1.TabIndex = 4;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(496, 476);
+            this.ClientSize = new System.Drawing.Size(496, 477);
             this.Controls.Add(this.tableLayoutPanel1);
             this.Name = "Form1";
             this.Text = "Form1";
@@ -127,5 +139,6 @@
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.Button button4;
+        private Labooratorio09.Estudiante estudiante1;
     }
 }

@@ -10,6 +10,7 @@
       <e p="Detalle.Designer.cs" t="Include" />
       <e p="Estudiante.cs" t="Include" />
       <e p="Estudiante.Designer.cs" t="Include" />
+      <e p="Estudiante.resx" t="Include" />
       <e p="Form1.cs" t="Include" />
       <e p="Form1.Designer.cs" t="Include" />
       <e p="Form1.resx" t="Include" />
