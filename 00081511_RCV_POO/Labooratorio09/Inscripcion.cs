@@ -1,0 +1,12 @@
+﻿using System.Windows.Forms;
+
+namespace Labooratorio09
+{
+    public partial class Inscripcion : UserControl
+    {
+        public Inscripcion()
+        {
+            InitializeComponent();
+        }
+    }
+}
