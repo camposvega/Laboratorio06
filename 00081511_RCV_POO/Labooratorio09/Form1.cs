@@ -49,5 +49,10 @@ namespace Labooratorio09
             tableLayoutPanel1.Controls.Add(current,0,1);
             tableLayoutPanel1.SetColumnSpan(current,4);
         }
+
+        private void estudiante1_Load(object sender, EventArgs e)
+        {
+            throw new System.NotImplementedException();
+        }
     }
 }
