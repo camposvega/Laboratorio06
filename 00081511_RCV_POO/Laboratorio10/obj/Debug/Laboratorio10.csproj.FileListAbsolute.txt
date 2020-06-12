@@ -1,0 +1,6 @@
+C:\Users\Glenda Cartagena\Documents\new repo\x00081511\Laboratorio10\bin\Debug\Laboratorio10.exe
+C:\Users\Glenda Cartagena\Documents\new repo\x00081511\Laboratorio10\bin\Debug\Laboratorio10.pdb
+C:\Users\Glenda Cartagena\Documents\new repo\x00081511\Laboratorio10\obj\Debug\Laboratorio10.csprojAssemblyReference.cache
+C:\Users\Glenda Cartagena\Documents\new repo\x00081511\Laboratorio10\obj\Debug\Laboratorio10.csproj.CoreCompileInputs.cache
+C:\Users\Glenda Cartagena\Documents\new repo\x00081511\Laboratorio10\obj\Debug\Laboratorio10.exe
+C:\Users\Glenda Cartagena\Documents\new repo\x00081511\Laboratorio10\obj\Debug\Laboratorio10.pdb
